@@ -127,13 +127,6 @@ Power BI Dashboard_Finance_Report/
 * Year-over-Year Analysis
 * Power BI Service Deployment
 
----
-
-## 👨‍💻 Author
-
-**Choudhury Debashis Dash**
-
-**Snowflake Data Engineer | Power BI Developer | SQL**
 
 * GitHub: https://github.com/YourGitHubUsername
 * LinkedIn: https://linkedin.com/in/YourLinkedInUsername
