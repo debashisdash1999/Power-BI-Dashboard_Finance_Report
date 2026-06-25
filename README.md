@@ -126,8 +126,6 @@ Power BI Dashboard_Finance_Report/
 * Dynamic Tooltips
 * Year-over-Year Analysis
 * Power BI Service Deployment
-
-
 * GitHub: https://github.com/YourGitHubUsername
 * LinkedIn: https://linkedin.com/in/YourLinkedInUsername
 
