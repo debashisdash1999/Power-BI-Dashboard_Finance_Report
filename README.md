@@ -340,7 +340,7 @@ Interactive Dashboard
           │
           ▼
 # 📊 Dashboard Design
-
+```
 The Finance Dashboard was designed as an executive summary page that provides stakeholders with a quick overview of the organization's financial performance.
 
 The report combines interactive visualizations, geographic analysis, trend analysis, and product performance metrics into a single dashboard. Users can dynamically filter the report by year and month, making it easy to compare performance across different time periods.
