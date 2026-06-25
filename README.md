@@ -12,9 +12,6 @@ The dashboard transforms raw financial data into meaningful business insights us
 
 ---
 
-## Image
-<img width="886" height="499" alt="image" src="https://github.com/user-attachments/assets/0f6a47ba-a99f-4701-bf0c-f8addb8546b5" />
-
 ## 🎯 Business Objectives
 
 The dashboard answers the following business questions:
@@ -118,11 +115,7 @@ Power BI Dashboard_Finance_Report/
 
 ## 🖼 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-```markdown
-![Finance Dashboard](Images/Dashboard.png)
-```
+<img width="886" height="499" alt="image" src="https://github.com/user-attachments/assets/0f6a47ba-a99f-4701-bf0c-f8addb8546b5" />
 
 ---
 
